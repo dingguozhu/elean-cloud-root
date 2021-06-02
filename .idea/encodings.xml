@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/elean-cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-cloud-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-common-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-common-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-config-3344/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-config-3344/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-config-3355/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-config-3355/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-81/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-81/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-82/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-82/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-83/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-83/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-84/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-consumer-84/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-eurake-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-eurake-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-hystrix-control-9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-hystrix-control-9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8005/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8005/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8006/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elean-order-8006/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+server:
+  port: 8006
+spring:
+  application:
+    name: elean-order-service
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://elean-7001.com:7001/eureka/,http://elean-7002.com:7002/eureka/

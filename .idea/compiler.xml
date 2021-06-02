@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="elean-consumer-80" />
+        <module name="elean-hystrix-control-9001" />
+        <module name="elean-consumer-81" />
+        <module name="elean-consumer-82" />
+        <module name="elean-common-api" />
+        <module name="elean-config-3344" />
+        <module name="elean-config-3355" />
+        <module name="elean-consumer-83" />
+        <module name="elean-consumer-84" />
+        <module name="elean-eureka-server" />
+        <module name="elean-order-8003" />
+        <module name="elean-cloud-gateway" />
+        <module name="elean-order-8006" />
+        <module name="elean-order-8005" />
+        <module name="elean-order-8000" />
+        <module name="elean-eurake-server" />
+        <module name="elean-order-8001" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

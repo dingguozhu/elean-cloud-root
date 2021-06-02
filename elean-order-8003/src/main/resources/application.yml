@@ -1,0 +1,8 @@
+server:
+  port: 8003
+spring:
+  cloud:
+    zookeeper:
+      connect-string: 192.168.59.130:2181
+  application:
+    name: elean-order-service

@@ -1,0 +1,12 @@
+server:
+  port: 82
+
+spring:
+  application:
+    name: elean-consumer-service
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}

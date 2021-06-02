@@ -1,0 +1,20 @@
+server:
+  port: 83
+spring:
+  application:
+    name: elean-consumer-service
+eureka:
+  client:
+    #注册进客户端
+    register-with-eureka: false
+#    fetch-registry: true
+    service-url:
+      defaultZone: http://elean-7001.com:7001/eureka/,http://elean-7002.com:7002/eureka/
+
+ribbon:
+  ReadTimeout: 5000
+  ConnectTimeout: 5000
+
+logging:
+  level:
+    com.elean.service.PaymentService: debug

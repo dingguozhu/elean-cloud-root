@@ -1,0 +1,13 @@
+server:
+  port: 8005
+
+spring:
+  application:
+    name: elean-order-service
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+      #hostname: 127.0.0.1

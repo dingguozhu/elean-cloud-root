@@ -1,0 +1,22 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: elean-config-3344
+  cloud:
+    config:
+      server:
+        git:
+          username: dingguozhu
+          password: ding!1234
+          uri: https://github.com/dingguozhu/elean-cloud.git
+          search-paths:
+            - elean-cloud
+          lable: main
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://elean-7001.com:7001/eureka/,http://elean-7002.com:7002/eureka/

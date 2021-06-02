@@ -1,0 +1,10 @@
+server:
+  port: 3355
+spring:
+  application:
+    name: elean-cloud-3355
+  cloud:
+    config:
+      label: master
+      name: config
+      profile: dev

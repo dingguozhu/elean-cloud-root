@@ -1,0 +1,18 @@
+# Project exclude paths
+/elean-cloud-gateway/target/
+/elean-common-api/target/
+/elean-config-3344/target/
+/elean-config-3355/target/
+/elean-consumer-80/target/
+/elean-consumer-81/target/
+/elean-consumer-82/target/
+/elean-consumer-83/target/
+/elean-consumer-84/target/
+/elean-eurake-server/target/
+/elean-eureka-server/target/
+/elean-hystrix-control-9001/target/
+/elean-order-8000/target/
+/elean-order-8001/target/
+/elean-order-8003/target/
+/elean-order-8005/target/
+/elean-order-8006/target/
