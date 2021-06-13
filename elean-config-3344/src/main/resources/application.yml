@@ -8,12 +8,11 @@ spring:
     config:
       server:
         git:
-          username: dingguozhu
-          password: ding!1234
-          uri: https://github.com/dingguozhu/elean-cloud.git
+          uri: git@github.com:dingguozhu/elean-cloud.git
           search-paths:
             - elean-cloud
           lable: main
+
 eureka:
   client:
     register-with-eureka: true
